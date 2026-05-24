@@ -2,6 +2,20 @@
 
 Application Android de prise de notes pour étudiants, développée en Kotlin avec architecture MVVM.
 
+## Aperçu
+
+<p>
+  <img src="screenshots/accueil.png" width="180" alt="Accueil"/>
+  <img src="screenshots/detail_note.png" width="180" alt="Détail"/>
+  <img src="screenshots/update_note.png" width="180" alt="Édition"/>
+  <img src="screenshots/delete_note.png" width="180" alt="Suppression"/>
+</p>
+<p>
+  <img src="screenshots/filtre_module.png" width="180" alt="Filtre module"/>
+  <img src="screenshots/filtre_favoris.png" width="180" alt="Favoris"/>
+  <img src="screenshots/recherche.png" width="180" alt="Recherche"/>
+</p>
+
 ## Fonctionnalités
 
 - **Créer** une note avec un titre, un contenu et un module
